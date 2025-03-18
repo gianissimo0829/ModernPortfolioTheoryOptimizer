@@ -9,6 +9,7 @@ Generates thousands of random portfolios with different weight distributions
 Calculates key portfolio metrics (expected return, volatility, and Sharpe ratio)
 Uses scipy.optimize to determine the optimal portfolio allocation
 Visualizes risk-return trade-offs with Matplotlib
+
 Technologies Used:
 
 Python
@@ -17,6 +18,7 @@ Pandas
 Matplotlib
 SciPy
 yFinance
+
 How to Use:
 
 Clone the repository.
